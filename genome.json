@@ -1,0 +1,37 @@
+{
+	"label": "Your Organism",
+	"length": 10000,
+	"genes": {
+			"gene1": {
+			  "start": 200,
+			  "end": 500,
+			  "strand": 1
+			},
+			"gene2": {
+			  "start": 500,
+			  "end": 1000,
+			  "strand": 1
+			},
+			"gene3": {
+			  "start": 1000,
+			  "end": 4000,
+			  "strand": 1
+			},
+			"gene4": {
+			  "start": 4000,
+			  "end": 5000,
+			  "strand": 1
+			},
+			"gene5": {
+			  "start": 5000,
+			  "end": 10000,
+			  "strand": 1
+			}
+			
+		},
+		"amplicons": [
+            [1,2000],
+            [1500,3500] 
+		],
+		"sequence": "ATGCTGA Insert your nucleotide sequence here"
+}

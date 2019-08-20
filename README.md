@@ -1,2 +1,3 @@
 # rampart-template
-Template repository for configuring rampart to run on your favourite organism
+
+Template configuration for running RAMPART on your favourite organism.

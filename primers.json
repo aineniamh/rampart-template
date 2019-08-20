@@ -1,0 +1,7 @@
+{
+	"name": "Primer Scheme Name",
+	"amplicons": [
+		[1,2000],
+		[1500,3500] 
+		]
+}
